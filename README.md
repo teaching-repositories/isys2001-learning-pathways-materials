@@ -42,6 +42,6 @@ The `Self-Paced` section contains PDF lessons, video lessons, interactive notebo
 To access the notebooks and worksheets, clone the repository and navigate to the desired section and week.
 
 ```bash
-git clone https://github.com/teaching-repositories/isys2001-learning-pathways-materials
+git clone https://github.com/teaching-repositories/isys2001-learning-pathways-materials.git
 cd isys2001-learning-pathways-materials
 
